@@ -14,3 +14,5 @@ I'll change this bit as well
 Ch-ch-changes
 
 ### Getting Started
+
+Enter some text here about how to get started.
